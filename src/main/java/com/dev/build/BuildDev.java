@@ -6,7 +6,7 @@ public class BuildDev {
 
 	@Test
 	public void devBuild() {
-		System.out.println("Helly world");
+		System.out.println("world");
 
 	}
 
